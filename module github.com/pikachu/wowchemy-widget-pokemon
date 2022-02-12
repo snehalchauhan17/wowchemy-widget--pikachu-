@@ -1,0 +1,3 @@
+module github.com/snehalchauhan17/wowchemy-widget-pikachu
+
+go 1.15
